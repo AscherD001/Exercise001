@@ -1,0 +1,15 @@
+.wrapper {
+	width: 75%;
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+}
+img {
+	height: 256px;
+	width: auto;
+	float: left;
+}
+p{
+	margin-top: 5%;
+}
